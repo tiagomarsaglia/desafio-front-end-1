@@ -1,12 +1,12 @@
 # Desafio Front-end #1/2018 - Frete Rápido
 
 
-**Objetivo:**
+### Objetivo:
 
 - Desenvolver uma página integrada à uma API de clima que apresente a temperatura de uma determinada cidade pesquisada.
 
 
-**Requisitos:**
+### Requisitos:
 
 - Permitir informar a cidade a ser consultada em um campo;
 - Apresentar o nome e estado da cidade pesquisada;
@@ -14,7 +14,7 @@
 - Apresentar também a temperatura Máxima e Mínima da cidade.
 
 
-**Sugestões:**
+### Sugestões:
 
 Abaixo sugerimos as tecnologias que você pode utilizar:
 
@@ -31,13 +31,13 @@ Abaixo listamos as sugestões de APIs de tempo para consumir neste desafio:
 - [Apixu][5]
 
 
-**Ganha mais pontos:**
+### Ganha mais pontos:
 
 - Automação com Gulp.
 - Otimizações para aumentar a velocidade de renderização.
 
 
-**Dicas:**
+### Dicas:
 
 - Considere que o layout pode ser visualizado em dispositivos de diversos tamanhos.
 - Lembre-se de aplicar validações simples e básicas, com mensagens claras para o usuário.
@@ -47,7 +47,7 @@ Abaixo listamos as sugestões de APIs de tempo para consumir neste desafio:
 - Fica a critério do candidato o uso de testes, *task runners* e demais ferramentas que o auxiliem tanto em **agilidade, qualidade e performance**.
 - Explore a sua criatividade e faça o seu melhor ;)
 
-**Entrega:**
+### Entrega:
  
 - Faça um Fork deste repositório;
 - Coloque seu projeto no seu fork;
