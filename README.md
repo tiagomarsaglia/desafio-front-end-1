@@ -18,13 +18,13 @@
 
 ### Sugestões:
 
-Abaixo sugerimos as tecnologias que você pode utilizar:
+Tecnologias que você pode utilizar (mas fique a vontade):
 
 - HTML5 + CSS3;
 - Sass;
 - Angular ou VueJS;
 
-Abaixo listamos as sugestões de APIs de tempo para consumir neste desafio:
+APIs de tempo para consumir neste desafio:
 
 - [ClimaTempo][7]
 - [OpenWeatherMap][6]
