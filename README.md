@@ -1,4 +1,6 @@
-# Desafio Front-end #1/2018 - Frete Rápido
+<div style="text-align:center;"><img src ="freterapido.png" /></div>
+
+# Desafio Front-end #1 - Frete Rápido
 
 
 ### Objetivo:
@@ -49,11 +51,10 @@ Abaixo listamos as sugestões de APIs de tempo para consumir neste desafio:
 
 ### Entrega:
  
-- Faça um Fork deste repositório;
-- Coloque seu projeto no seu fork;
-- Descreva no README as instruções para execução do seu projeto;
-- Envie o link do repositório para [talentos@freterapido.com][2], com o assunto: "Desafio Front-end #1/2018 - Frete Rápido".
-
+- Faça um *Fork* deste repositório;
+- Coloque seu projeto no seu *Fork*;
+- Descreva no **README** as instruções para execução do seu projeto;
+- Solicite um *Pull Request*, com **seu nome** na descrição, para nossa avaliação.
 
 [1]: https://freterapido.com/
 [2]: mailto:talentos@freterapido.com
